@@ -1,0 +1,15 @@
+.searchbar_parent {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0);
+  align-items: center;
+}
+
+.searchbar {
+  background-color: #000;
+  color: #fff;
+  height: 4vh;
+  width: 20%;
+  text-align: center;
+}/*# sourceMappingURL=searchbar.css.map */
