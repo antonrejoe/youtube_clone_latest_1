@@ -1,13 +1,15 @@
 import React from 'react'
+import { ReactDOM } from 'react'
 import Searchbar from './Searchbar'
 
+// import youtubeLogo from "./utils/css/inside/youtubelogo.svg"
+
+
 const Navbar = () => {
-  const youtubeLogo = "/utils/css/inside/items/youtube2.svg"
   return (
     <>
-        <img src={youtubeLogo} alt="s" />
+        {/* <img src={youtubeLogo} alt='youtubeLogo' /> */}
         <Searchbar/>
-    
     </>
   )
 }

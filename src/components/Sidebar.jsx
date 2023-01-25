@@ -1,8 +1,25 @@
+import { Menu, Paper } from '@mui/material'
 import React from 'react'
 
 const Sidebar = () => {
+
+ 
+    
   return (
-    <div>Sidebar</div>
+    <>
+      
+      <Paper>
+        
+        <Menu>
+
+          
+          
+        </Menu>
+        
+      </Paper>
+    
+    
+    </>
   )
 }
 

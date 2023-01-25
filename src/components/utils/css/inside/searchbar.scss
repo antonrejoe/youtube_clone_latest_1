@@ -12,10 +12,9 @@
 
 
 .searchbar{
-    background-color: #000;
-    color: #fff;
-    height: 4vh;
-    width: 20%;
     text-align: center;
-
+    width: auto;
+    display: flex;
+    flex-direction: row;
 }
+
